@@ -28,7 +28,7 @@ var data = [
         <br>圣诞节班级活动，系统自动配对互相实现愿望的人，可以在系统中填写愿望，写下圣诞祝福，包括聊天\
         <br>测试账号和密码：<font color=\"#F56C6C\">test1 test</font>",
         demoUrl:"https://king.ncu204.com/",
-        codeUrl:"https://github.com/kzq666666/monitor"
+        codeUrl:"https://github.com/kzq666666/King-And-Angel"
     }
 ]
 
