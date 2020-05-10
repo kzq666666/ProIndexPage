@@ -11,7 +11,7 @@ var data = [
         <br>模拟学生用户和管理员的操作，如学生的查询书籍，借阅记录的查询，以及管理员对书籍以及借阅的操作。\
         <br>学生测试账号和密码：<font color=\"#F56C6C\">test test</font>\
         <br>管理员账号和密码：<font color=\"#F56C6C\">admin admin</font>",
-        demoUrl:"http://lib.ncu204.com/",
+        demoUrl:"http://lib.kangzhiqing.com/",
         codeUrl:"https://github.com/kzq666666/bookSysteam"
     },
     {
